@@ -40,4 +40,5 @@ I am a passionate Software Engineer from Turkey, with over 2 years of experience
 - Reach out via [Email](mailto:harunserlibusiness@gmail.com)
 - Explore more of my work on [Kaggle](https://www.kaggle.com/harunerli)
 
-Thanks for stopping by! Let's connect and create something amazing together. 🚀
+Thanks for stopping by! Let's connect and create something amazing together. 
+
