@@ -2,7 +2,9 @@
 
 I am a passionate Full Stack Software Engineer from Turkey, with over 3 years of experience spanning web development, mobile app creation, AI integration, and real-time systems. I am currently pursuing a Master of Engineering in Software Engineering at Fırat University, and I love exploring new technologies and sharing my insights with the community.
 
-![Harun's Stats](https://github-readme-stats.vercel.app/api?username=HARUNLUK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Harun's Stats](https://github-readme-stats.vercel.app/api?username=HARUNLUK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=400)
+
+![Harun's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HARUNLUK&theme=vue-dark&hide_border=true&area=true&area_color=00d4aa)
 
 ![Harun's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARUNLUK&theme=vue-dark&hide_border=true&layout=compact&langs_count=6)
 
